@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260628-211723-m8nf",
+      "title": "Johnny Fayth",
+      "commanders": [
+        "Johnny Fayth"
+      ],
+      "dateStart": "2026-06-29T01:17:23.000Z",
+      "dateEnd": "2026-06-29T02:41:51.000Z",
+      "dateLabel": "6/28/2026, 9:17:23 PM - 6/28/2026, 10:41:51 PM",
+      "url": "https://Firestorm333.github.io/GW2_Logs/?report=20260628-211723-m8nf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 44
+      }
+    }
+  ]
+}
