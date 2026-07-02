@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260701-210720-k1ma",
+      "title": "Johnny Fayth",
+      "commanders": [
+        "Johnny Fayth"
+      ],
+      "dateStart": "2026-07-02T01:07:20.000Z",
+      "dateEnd": "2026-07-02T01:56:18.000Z",
+      "dateLabel": "7/1/2026, 9:07:20 PM - 7/1/2026, 9:56:18 PM",
+      "url": "https://Firestorm333.github.io/GW2_Logs/?report=20260701-210720-k1ma",
+      "summary": {
+        "borderlandsPct": 0.5925925925925926,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260629-211658-xmc0",
       "title": "Swarm Of Fish",
       "commanders": [
