@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260708-210414-alml",
+      "title": "Johnny Fayth",
+      "commanders": [
+        "Johnny Fayth"
+      ],
+      "dateStart": "2026-07-09T01:04:14.000Z",
+      "dateEnd": "2026-07-09T02:07:41.000Z",
+      "dateLabel": "7/8/2026, 9:04:14 PM - 7/8/2026, 10:07:41 PM",
+      "url": "https://Firestorm333.github.io/GW2_Logs/?report=20260708-210414-alml",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260705-213103-yypm",
       "title": "Ilomay",
       "commanders": [
