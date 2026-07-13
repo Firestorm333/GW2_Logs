@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260712-210212-xs7q",
+      "title": "Mylo Da Reaper",
+      "commanders": [
+        "Mylo Da Reaper"
+      ],
+      "dateStart": "2026-07-13T01:02:12.000Z",
+      "dateEnd": "2026-07-13T01:53:25.000Z",
+      "dateLabel": "7/12/2026, 9:02:12 PM - 7/12/2026, 9:53:25 PM",
+      "url": "https://Firestorm333.github.io/GW2_Logs/?report=20260712-210212-xs7q",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260708-210414-alml",
       "title": "Johnny Fayth",
       "commanders": [
