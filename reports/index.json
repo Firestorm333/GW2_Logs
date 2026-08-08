@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-220841-d9hl",
+      "title": "I N S A T I A B L E",
+      "commanders": [
+        "I N S A T I A B L E"
+      ],
+      "dateStart": "2026-08-08T02:08:41.000Z",
+      "dateEnd": "2026-08-08T03:15:31.000Z",
+      "dateLabel": "8/7/2026, 10:08:41 PM - 8/7/2026, 11:15:31 PM",
+      "url": "https://Firestorm333.github.io/GW2_Logs/?report=20260807-220841-d9hl",
+      "summary": {
+        "borderlandsPct": 0.2,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260722-211015-4fqv",
       "title": "Mylo Da Reaper",
       "commanders": [
