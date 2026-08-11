@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260810-211713-jri4",
+      "title": "Namí San",
+      "commanders": [
+        "Namí San"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-11T01:17:13.000Z",
+      "dateEnd": "2026-08-11T02:16:01.000Z",
+      "dateLabel": "8/10/2026, 9:17:13 PM - 8/10/2026, 10:16:01 PM",
+      "url": "https://Firestorm333.github.io/GW2_Logs/?report=20260810-211713-jri4",
+      "summary": {
+        "borderlandsPct": 0.13636363636363635,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260807-220841-d9hl",
       "title": "I N S A T I A B L E",
       "commanders": [
