@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260812-212247-pk1o",
+      "title": "K A L A D Î N",
+      "commanders": [
+        "K A L A D Î N"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-08-13T01:22:47.000Z",
+      "dateEnd": "2026-08-13T02:29:59.000Z",
+      "dateLabel": "8/12/2026, 9:22:47 PM - 8/12/2026, 10:29:59 PM",
+      "url": "https://Firestorm333.github.io/GW2_Logs/?report=20260812-212247-pk1o",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260810-211713-jri4",
       "title": "Namí San",
       "commanders": [
