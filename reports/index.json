@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260911-221319-0ig5",
+      "title": "Pixel Paper Doll",
+      "commanders": [
+        "Pixel Paper Doll"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-12T02:13:19.000Z",
+      "dateEnd": "2026-09-12T03:04:53.914Z",
+      "dateLabel": "9/11/2026, 10:13:19 PM - 9/11/2026, 11:04:53 PM",
+      "url": "https://Firestorm333.github.io/GW2_Logs/?report=20260911-221319-0ig5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260906-211130-gqu9",
       "title": "Meester Dopie, Zodiak The Fierce",
       "commanders": [
