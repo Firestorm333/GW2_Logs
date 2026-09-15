@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260914-210722-8ypy",
+      "title": "Pixel Paper Doll",
+      "commanders": [
+        "Pixel Paper Doll"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-09-15T01:07:22.000Z",
+      "dateEnd": "2026-09-15T01:55:07.754Z",
+      "dateLabel": "9/14/2026, 9:07:22 PM - 9/14/2026, 9:55:07 PM",
+      "url": "https://Firestorm333.github.io/GW2_Logs/?report=20260914-210722-8ypy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260911-221319-0ig5",
       "title": "Pixel Paper Doll",
       "commanders": [
