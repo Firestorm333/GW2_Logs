@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261004-212454-j606",
+      "title": "Meester Dopie",
+      "commanders": [
+        "Meester Dopie"
+      ],
+      "guild": {
+        "id": "BFF22E17-C2DC-435B-BCEE-0204496FD486",
+        "name": "Eye Of Tyria",
+        "tag": "EYE"
+      },
+      "dateStart": "2026-10-05T01:24:54.000Z",
+      "dateEnd": "2026-10-05T02:28:30.067Z",
+      "dateLabel": "10/4/2026, 9:24:54 PM - 10/4/2026, 10:28:30 PM",
+      "url": "https://Firestorm333.github.io/GW2_Logs/?report=20261004-212454-j606",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20261002-221224-4n9e",
       "title": "Pixel Paper Doll",
       "commanders": [
